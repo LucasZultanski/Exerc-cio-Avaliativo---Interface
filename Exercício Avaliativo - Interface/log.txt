@@ -1,0 +1,3 @@
+[27/05/2024 20:33:38] [DEBUG] Mensagem de debug
+[27/05/2024 20:33:39] [WARNING] Mensagem de warning
+[27/05/2024 20:33:39] [ERROR] Mensagem de erro
